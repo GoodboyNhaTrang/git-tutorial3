@@ -1,2 +1,1 @@
-feature done
-q
+conflict 1
